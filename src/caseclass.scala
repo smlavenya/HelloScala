@@ -13,7 +13,7 @@ case object main{
    
   lazy val i=10
    
-   println(i)
+   println(i);
    println(im)
     val a=caseclass("lavenya",1000)
     val b=caseclass("rammi",3000)
